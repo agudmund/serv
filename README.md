@@ -1,0 +1,2 @@
+# serv
+Skeleton Django Server
